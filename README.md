@@ -22,7 +22,7 @@ Hand-Gesture-Based-System-Controller/
 │ ├── gesture_recognizer.py
 │ └── system_control.py
 ├── data/ # Gesture dataset CSV (optional upload)
-│ └── gesture_data.csv
+│ └── gesture_data.csv (not provide here)
 ├── models/ # Trained KNN + LabelEncoder
 │ ├── knn_model.joblib
 │ └── label_encoder.joblib
