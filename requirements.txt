@@ -1,0 +1,19 @@
+# 手勢辨識與視覺化
+mediapipe==0.10.9
+opencv-python==4.9.0.80
+numpy==1.26.4
+
+# 機器學習模型
+scikit-learn==1.4.2
+pandas==2.2.2
+joblib==1.4.2
+
+# 系統控制
+pyautogui==0.9.54
+pymsgbox==1.0.9
+pyperclip==1.9.0
+pyscreeze==1.0.1
+pyrect==0.2.0
+pygetwindow==0.0.9
+pytweening==1.2.0
+mouseinfo==0.1.3
