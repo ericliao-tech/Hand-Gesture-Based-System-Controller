@@ -1,4 +1,4 @@
-# 🖐 Hand Gesture-Based System Controller
+# Hand Gesture-Based System Controller
 
 A real-time hand gesture recognition system that allows users to control **system volume** and **screen scrolling** using only their hand gestures. Built with **MediaPipe**, **scikit-learn**, and **OpenCV**, this lightweight Python project is suitable for productivity, accessibility enhancement, or fun gesture-based interaction demos.
 
