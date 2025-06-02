@@ -16,7 +16,7 @@ A real-time hand gesture recognition system that allows users to control **syste
 ---
 
 ## 📁 Folder Structure
-
+```
 Hand-Gesture-Based-System-Controller/
 ├── src/ # Main real-time recognizer & system control logic
 │ ├── gesture_recognizer.py
@@ -31,7 +31,7 @@ Hand-Gesture-Based-System-Controller/
 ├── record_gesture.py # Tool to record gestures to CSV
 ├── requirements.txt # Project dependencies
 └── README.md
-
+```
 ---
 
 ##  🔧 Supported Gestures
